@@ -1,3 +1,3 @@
 # techmentalhealthpredictor
-Mental Health in Tech Predictor
-Built for my Artificial Intelligence Fundamentals Module on my MSc course
+Mental Health in Tech Predictor,
+which I built for my Artificial Intelligence Fundamentals Module on my MSc course.
